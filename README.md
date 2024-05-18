@@ -3,4 +3,3 @@
 - 🌱 I’m currently pursuing my Masters in Information Systems from Northeastern University (Boston)
 - 👯 I’m looking to collaborate on projects related to Data Science domain
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Nobody knows who named our planet Earth 😮
